@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Message": 2,
+    "Todo": 3
+  },
+  "models": {
+    "Message": {
+      "1": "{\"message\":\"hello world\",\"id\":1}"
+    },
+    "Todo": {
+      "2": "{\"description\":\"hello world\",\"deadline\":\"2019-09-19T07:45:51.377Z\",\"done\":false,\"id\":2}"
+    }
+  }
+}
